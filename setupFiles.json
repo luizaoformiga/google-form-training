@@ -1,0 +1,5 @@
+{
+    "jest": {
+      "setupFiles": ["./__setups__/other.js", "jest-canvas-mock"]
+    }
+}
